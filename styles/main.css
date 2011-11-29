@@ -1,0 +1,11 @@
+* { padding: 0px; margin: 0px; }
+
+body { font-family: verdana;}
+
+h1 {font-size: 1.3em;}
+
+h2 {font-size: 1em; color: #226600;}
+
+p { font-size: .9em; margin-top: 5px; margin-left: 10px;}
+
+label { cursor: pointer; }

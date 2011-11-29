@@ -1,0 +1,1 @@
+This folder is a temporary place for uploaded files

@@ -1,0 +1,16 @@
+#main {background: #676;}
+#main #container { width: 600px; margin: 20px auto; background: #ffffff; padding: 20px; border: 2px solid #222222;}
+
+div.step {
+	height: 80px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	margin: 15px; padding: 10px;
+	-moz-box-shadow: -5px 5px 5px #666;
+	-webkit-box-shadow: -5px 5px 5px #666;
+	box-shadow: -5px 5px 5px #666;
+	background: #ddffdd;
+}
+
+#canopyList {width:100%; font-size: .9em; text-align: left;}
+#canopyList {width:100%;}
